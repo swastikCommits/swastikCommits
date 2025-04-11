@@ -66,6 +66,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/swastikCommits/swastikCommits/output/snake.svg" alt="Snake animation" />
 
 ###
