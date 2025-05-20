@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋 I’m Swastik — Full Stack Developer from India, currently learning DevOps & Next.js, and contributing to Open Source to make the web a better place.</h4>
+<h4 align="left">Hi 👋 I’m Swastik — Full Stack Developer from India, currently learning DevOps and contributing to Open Source to make the web a better place.</h4>
 
 ###
 
